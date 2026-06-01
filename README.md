@@ -5,7 +5,6 @@ A simple Chrome extension providing a quick dictionary lookup via a convenient p
 ## 🎯 Features
 
 - Popup user interface for fast word search
-- Clean, responsive layout using Bootstrap
 - Displays word definitions in a simple, easy-to-read list
 - Lightweight and easy to use
 
@@ -21,25 +20,34 @@ A simple Chrome extension providing a quick dictionary lookup via a convenient p
 ### 1. Clone Repository
 
 ```
-Using GitHub
+git clone https://github.com/DE-IGNIS/chrome-dictionary-extension.git
+cd chrome-dictionary-extension
 ```
 
 ### 2. Google Extension
 
 ```
-Open project folder using Load Unpacked
+1. Open Google Chrome
+2. Go to chrom://extensions/
+3. Enable Developer Mode
+4. Click on Load unpacked
+5. Select the project folder
 ```
 
 ### 3. Run
 
 ```
-Open Side panel and start using
+- Open the extension from Chrome toolbar
+- Launch the side panel
+- Start searching for word meanings instantly
 ```
 
-## License
+## 📝 License
 
-MIT License © 2025
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
+```
+MIT License · Copyright (c) 2026 DARSYN
+```
 
-Feel free to contribute or open issues for feature requests and bug reports.
+<div align="center"> Made with ❤️ by <a href="https://github.com/DE-IGNIS" target="_blank">Darsyn</a> </div>
